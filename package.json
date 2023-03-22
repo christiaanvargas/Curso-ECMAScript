@@ -12,5 +12,6 @@
     "platzi."
   ],
   "author": "Christiaan Vargas <christiaanvargas@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
